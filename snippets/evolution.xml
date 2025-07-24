@@ -13,6 +13,12 @@
            sync-j="4"
            revision="refs/heads/bka" />
 
+  <remote  name="evo-tensor"
+           fetch="https://git.evolution-x.org/Evolution-X-Tensor"
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/bka" />
+
   <remote  name="evo-bitbucket"
            fetch="https://bitbucket.org/evo-x"
            sync-c="true"
